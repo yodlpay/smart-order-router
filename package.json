@@ -1,5 +1,5 @@
 {
-  "name": "@uniswap/smart-order-router",
+  "name": "@yodlpay/smart-order-router",
   "version": "3.31.0",
   "description": "Uniswap Smart Order Router",
   "main": "build/main/index.js",
